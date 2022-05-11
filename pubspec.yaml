@@ -36,6 +36,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   http: ^0.13.4
   flutter_bloc: ^8.0.1
+  kiwi: ^4.0.2
+  kiwi_generator: ^4.0.2
+  build_runner: ^2.1.10
   
   
   

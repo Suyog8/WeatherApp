@@ -12,7 +12,6 @@ class SearchButton extends StatelessWidget
   Widget build(BuildContext context) {
     return ElevatedButton(onPressed:(){
              weatherBloc.add(FetchWeather(controller.text));
-             
             }, child: const Text("Search"));
   }
   
